@@ -1,6 +1,4 @@
-<p align="center">
-  # AI - Movile Next
-</p>
+# AI - Movile Next
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png">
