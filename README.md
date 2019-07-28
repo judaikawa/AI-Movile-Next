@@ -1,6 +1,8 @@
 # AI - Movile Next
 
-![alt text](https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png "Logo Title Text 1") 
+<p align="center">
+  <img width="200" height="200" src="https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png">
+</p>
 
 
 #### Módulo 1 - Análise de dados e introdução à inteligência artificial
