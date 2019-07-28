@@ -1,8 +1,6 @@
 # AI - Movile Next
 
-![alt text](https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png "Logo Title Text 1"){:class="img-responsive"}
-![alt text](https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png "Logo Title Text 1"){:height="50%" width="50%"}
-![alt text](https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png "Logo Title Text 1"){:height="700px" width="400px"}
+![alt text](https://github.com/judaikawa/AI-Movile-Next/blob/master/next_round.png "Logo Title Text 1" | width=48)
 
 #### Módulo 1 - Análise de dados e introdução à inteligência artificial
 Introdução aos conceitos de Machine Learning, IA e como Python Pandas é ótimo para analisar dados. Introdução à Python Pandas para leitura e exibição de dados, com foco em entender o conhecimento dos alunos na manipulação de dados no Python, e introdução aos conceitos mais importantes no mundo de Machine Learning/Inteligência Artificial.
